@@ -1,4 +1,4 @@
-rg_name         = "rg-devops-enterprise"
+rg_name         = "rg-devops-production"
 location        = "Central India"
 vnetname        = "vnet-devops"
 addspaceip      = ["10.0.0.0/16"]
